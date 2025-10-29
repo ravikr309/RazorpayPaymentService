@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UpstrivesPaymentApplication {
+public class PaymentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UpstrivesPaymentApplication.class, args);
+		SpringApplication.run(PaymentApplication.class, args);
 	}
 
 }
+
